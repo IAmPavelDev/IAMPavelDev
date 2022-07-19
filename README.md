@@ -4,9 +4,7 @@ Skills: JavaScript, ReactJS, ReduxJS, Typescript, NodeJS, SCSS, HTML&CSS, Webpac
 Links: Email: 179werpavel@protonmail.com
        tg: https://t.me/g3t_P4v3l
        GitLab: https://gitlab.com/IAm_Pavel
-       LinkedIn: 
-       
-       <a href="https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D1%82%D0%BA%D0%B0%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-06a612243/">LinkedIn</a>
+       LinkedIn: https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D1%82%D0%BA%D0%B0%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-06a612243/
 
 <!--
 **IAmPavelDev/IAMPavelDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
