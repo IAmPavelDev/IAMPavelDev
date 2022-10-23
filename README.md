@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Skills: JavaScript, ReactJS, ReduxJS, Typescript, NodeJS, SCSS, HTML&CSS, Webpack, Sequelize, JWT, Git, Linux. </br>
+Skills: JavaScript, ReactJS, ReduxJS, Typescript, NodeJS, NestJS, MongoDB, Mongoose, SCSS, HTML&CSS, Webpack, Sequelize, JWT, Git, Linux. </br>
 Links: Email: 179werpavel@protonmail.com</br>
        &emsp;&emsp;&emsp;tg: https://t.me/g3t_P4v3l</br>
        &emsp;&emsp;&emsp;GitLab: https://gitlab.com/IAm_Pavel</br>
