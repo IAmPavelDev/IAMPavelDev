@@ -2,7 +2,7 @@
 
 Skills: JavaScript, ReactJS, SolidJS, ReduxJS, MobX, Typescript, NodeJS, NestJS, MongoDB, Mongoose, SCSS, HTML&CSS, Webpack, Sequelize, JWT, Git, Linux. </br>
 Links: </br>
-       &emsp;&emsp;&emsp;Website: https://iampaul.vercel.app/
+       &emsp;&emsp;&emsp;Website: https://iampaul.vercel.app </br>
        &emsp;&emsp;&emsp;Email: 179werpavel@protonmail.com</br>
        &emsp;&emsp;&emsp;tg: https://t.me/g3t_P4v3l</br>
        &emsp;&emsp;&emsp;GitLab: https://gitlab.com/IAm_Pavel</br>
